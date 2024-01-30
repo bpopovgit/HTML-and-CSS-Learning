@@ -27,6 +27,7 @@ p {
 
 aside {
     display: inline-block;
+    vertical-align: top;
 }
 
 header .site-title a {
