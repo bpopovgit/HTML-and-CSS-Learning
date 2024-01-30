@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+img {
+    position: absolute;
+    display: block;
+    height: auto;
+    z-index: 1;
+}
+
+.card {
+    background-color: rgb(255, 255, 255);
+}
+
+a {
+    background-color: rgb(0, 153, 0);
+}
+
+h3 {
+    font-family: Georgia, serif;
+    font-weight: 1em;
+    font-synthesis: 1.2em;
+}
